@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolmanager\\manageremployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolmanager\\manageremployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolmanager\\manageremployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolmanager\\manageremployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeewatchreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeewatchreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeesuppliermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeesuppliermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeeitemsmanagemt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeeitemsmanagemt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeecategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeecategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\views\\managerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\views\\managerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeecategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeecategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolmanager\\managerwatchreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolmanager\\managerwatchreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeecategorymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeecategorymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolmanager\\manageremployeemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolmanager\\manageremployeemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeeitemsmanagemt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeeitemsmanagemt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\views\\managerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\views\\managerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\storagemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\storagemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\views\\managerprogram.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\views\\managerprogram.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\usercontrolemployee\\employeeitemsmanagemt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeeitemsmanagemt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|d:\\apps\\intergrated_development_enviroment\\projects\\storagemanager\\storagemanager\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\storagemanager\\usercontrolemployee\\employeecategorymanagement.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{294F5915-04FB-48ED-B1B5-4E72735EB5DB}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\usercontrolemployee\\employeecategorymanagement.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManagerEmployeeManagement.Designer.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerEmployeeManagement.Designer.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlManager\\ManagerEmployeeManagement.Designer.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerEmployeeManagement.Designer.cs",
+              "RelativeToolTip": "StorageManager\\UserControlManager\\ManagerEmployeeManagement.Designer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswHkBAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:27:28.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerEmployeeManagement.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs",
+              "RelativeToolTip": "StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAIsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:15:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerWatchReports.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerWatchReports.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlManager\\ManagerWatchReports.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerWatchReports.cs [Design]",
+              "RelativeToolTip": "StorageManager\\UserControlManager\\ManagerWatchReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:04:28.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeWatchReports.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeWatchReports.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeWatchReports.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeWatchReports.cs [Design]",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeWatchReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:03:35.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerEmployeeManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs [Design]",
+              "RelativeToolTip": "StorageManager\\UserControlManager\\ManagerEmployeeManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:01:31.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeSupplierManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeSupplierManagement.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeSupplierManagement.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeSupplierManagement.cs [Design]",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeSupplierManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:00:04.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeCategoryManagement.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:40:26.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeItemsManagemt.Designer.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.Designer.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.Designer.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.Designer.cs",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:37:31.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeCategoryManagement.resx",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.resx",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.resx",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.resx",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-03T18:36:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeCategoryManagement.Designer.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.Designer.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.Designer.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.Designer.cs",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCIBAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:36:08.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeItemsManagemt.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:30:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeItemsManagemt.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs [Design]",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeItemsManagemt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:10:26.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeCategoryManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs",
+              "RelativeDocumentMoniker": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs [Design]",
+              "RelativeToolTip": "StorageManager\\UserControlEmployee\\EmployeeCategoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:09:43.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagerProgram.Designer.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\ManagerProgram.Designer.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Views\\ManagerProgram.Designer.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\ManagerProgram.Designer.cs",
+              "RelativeToolTip": "StorageManager\\Views\\ManagerProgram.Designer.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAiwK0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:59:12.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManagerProgram.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\ManagerProgram.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Views\\ManagerProgram.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\ManagerProgram.cs",
+              "RelativeToolTip": "StorageManager\\Views\\ManagerProgram.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:55:58.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerProgram.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\ManagerProgram.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Views\\ManagerProgram.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\ManagerProgram.cs [Design]",
+              "RelativeToolTip": "StorageManager\\Views\\ManagerProgram.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:11:27.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Views\\LoginForm.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\LoginForm.cs",
+              "RelativeToolTip": "StorageManager\\Views\\LoginForm.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:59:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Views\\LoginForm.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "StorageManager\\Views\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:57:49.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StorageManager.csproj",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\StorageManager.csproj",
+              "RelativeDocumentMoniker": "StorageManager\\StorageManager.csproj",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\StorageManager.csproj",
+              "RelativeToolTip": "StorageManager\\StorageManager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T19:59:24.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseConnector.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\DatabaseConnector.cs",
+              "RelativeDocumentMoniker": "StorageManager\\DatabaseConnector.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\DatabaseConnector.cs",
+              "RelativeToolTip": "StorageManager\\DatabaseConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:56:42.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Program.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Program.cs",
+              "ToolTip": "D:\\Apps\\Intergrated_Development_Enviroment\\Projects\\StorageManager\\StorageManager\\Program.cs",
+              "RelativeToolTip": "StorageManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:55:11.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
